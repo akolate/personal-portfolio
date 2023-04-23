@@ -60,16 +60,18 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Aniket Kolte.</h2>;
+  const three = <h3 className="big-heading">I design and code simple things.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I'm an India based software engineer with a bachelor's degree in computer science. I am
+        deeply passionate about creating efficient and elegant web applications that provide
+        meaningful solutions to real-world problems. I am also fascinated by blogging and wish to
+        make a career out of it someday. Currently, I focus on developing high-quality and robust
+        web applications at{' '}
+        <a href="https://www.thinkitive.com" target="_blank" rel="noreferrer">
+          Thinkitive
         </a>
         .
       </p>
