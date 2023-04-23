@@ -78,10 +78,11 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="mailto:aniketkolte18@gmail.com"
       target="_blank"
-      rel="noreferrer">
-      Check out my course!
+      rel="noreferrer"
+    >
+      Contact me
     </a>
   );
 
