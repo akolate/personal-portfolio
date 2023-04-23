@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/pycoder2000/portfolio-v4">
+        <a href="https://github.com/akolate/personal-portfolio/">
           <div>Designed &amp; Built by Brittany Chiang</div>
           <br></br>
           <div>Revised by Aniket Kolte</div>
